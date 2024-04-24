@@ -1,3 +1,3 @@
 # Handlebars Demo UI
 
-### Fun in class
+### [Picture of the Day](https://www.bing.com)
